@@ -40,3 +40,4 @@ grados= grados + 1;
     }
     else{estado=false;
         }
+}
